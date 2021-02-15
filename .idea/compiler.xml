@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.ejemplos.pruebaspring.intellijidea.prueba1" />
         <module name="gs-maven" />
       </profile>
     </annotationProcessing>
